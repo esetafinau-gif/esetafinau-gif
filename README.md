@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 
+<a href="https://www.linkedin.com/in/eseta/">
+  <img src="profile.jpg" width="100" height="100" style="border-radius: 50%;" alt="Eseta Finau" />
+</a>
+<br />
+<a href="https://www.linkedin.com/in/eseta/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+
 <a href="https://www.linkedin.com/in/eseta-finau-172183220/">
   <img src="profile.jpg" width="100" height="100" style="border-radius: 50%;" alt="Eseta Finau" />
 </a>
