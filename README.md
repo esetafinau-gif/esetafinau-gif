@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-<a href="https://www.linkedin.com/in/eseta-f-172183220/">
-  <img src="https://img.shields.io/badge/LinkedIn-Eseta%20Finau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-</a>
 
-<a href="https://www.linkedin.com/in/eseta-f-172183220/">
-  <img src="profile.jpg" width="120" height="120" style="border-radius: 50%;" alt="Eseta Finau LinkedIn" />
+<br />
+<a href="https://www.linkedin.com/in/eseta">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 Here are some ideas to get you started:
