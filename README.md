@@ -1,10 +1,7 @@
 ## Hi there 👋
-<a href="https://www.linkedin.com/in/eseta">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/eseta-f-172183220/">
+  <img src="profile.jpg" width="120" height="120" style="border-radius: 50%;" alt="Eseta Finau LinkedIn" />
 </a>
-<!--
-**esetafinau-gif/esetafinau-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
