@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
-🎓 Management Information Systems @ SJSU
-💻 Product Manager
-💫 First Generation 
-🔭 Currently interested in ethics in AI 
-⚒️Open to new tech projects 
-☘️ Fun Fact: I was born on St. Pattys Day
+-🎓 Management Information Systems @ SJSU
+-💻 Product Manager
+-💫 First Generation 
+-🔭 Currently interested in ethics in AI 
+-⚒️Open to new tech projects 
+-☘️ Fun Fact: I was born on St. Pattys Day
 
